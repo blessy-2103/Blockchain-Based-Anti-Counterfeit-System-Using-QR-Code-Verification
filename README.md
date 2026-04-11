@@ -93,3 +93,6 @@ npm start
 - Electronics and retail authentication  
 
 
+<img width="1920" height="1080" alt="Screenshot (975)" src="https://github.com/user-attachments/assets/efe5c509-85b0-4a88-9250-65a7b1a10000" />
+<img width="1920" height="1080" alt="Screenshot (976)" src="https://github.com/user-attachments/assets/1fc571d7-3c02-4be2-9b18-e1219eb046d8" />
+<img width="1920" height="1080" alt="Screenshot (977)" src="https://github.com/user-attachments/assets/5e0ecc75-8714-411b-9d64-bc96b02b68ce" />
